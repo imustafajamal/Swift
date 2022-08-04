@@ -22,11 +22,9 @@ The API That used in this project from https://corona.lmao.ninja
 ### Screenshots
 
 <p float="left">
-  <img src="shots/1.jpg" width="100" />
-  <img src="shots/2.jpg" width="100" /> 
-  <img src="shots/3.jpg" width="100" />
+  <img src="shots/1.jpg" width="300" />
+  <img src="shots/2.jpg" width="300" /> 
+  <img src="shots/3.jpg" width="300" />
 </p>
 
-![image info](shots/1.jpg) ![image info](shots/2.jpg)![image info](shots/3.jpg) ![image info](shots/4.jpg)
-![image info](shots/5.jpg)
 
