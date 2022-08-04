@@ -21,7 +21,6 @@ The API That used in this project from https://corona.lmao.ninja
 
 ### Screenshots
 
-![image info](shots/1.jpg) ![image info](shots/2.jpg)
-![image info](shots/3.jpg) ![image info](shots/4.jpg)
+![image info](shots/1.jpg) ![image info](shots/2.jpg)![image info](shots/3.jpg) ![image info](shots/4.jpg)
 ![image info](shots/5.jpg)
 
